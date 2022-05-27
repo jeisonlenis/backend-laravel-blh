@@ -24,6 +24,8 @@ Eloquent sintax
 
 ## Project Execution
 
+composer install
+
 php artisan serve
 
 Create databasename blhdb and execute the command
